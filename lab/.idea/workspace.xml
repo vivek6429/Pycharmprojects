@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01c861eb-3a79-48d5-b2e6-ec6b703ccb03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z7X3W7zOvtcuFEOdJQTUbgTutl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="qn2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qn2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01c861eb-3a79-48d5-b2e6-ec6b703ccb03" name="Default Changelist" comment="" />
+      <created>1584190906955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584190906955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="6" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584193019239">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="140" y="6" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1584193019239" />
+    <state width="652" height="138" key="GridCell.Tab.0.bottom" timestamp="1584196870820">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="169" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1584192261029">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="169" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1366.768@0.0.1366.768" timestamp="1584192261029" />
+    <state width="652" height="138" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584196870819" />
+    <state width="652" height="138" key="GridCell.Tab.0.center" timestamp="1584196870818">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="169" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1584192261027">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="169" key="GridCell.Tab.0.center.inPresentationMode/0.0.1366.768@0.0.1366.768" timestamp="1584192261027" />
+    <state width="652" height="138" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584196870818" />
+    <state width="652" height="138" key="GridCell.Tab.0.left" timestamp="1584196870817">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="169" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1584192261024">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="169" key="GridCell.Tab.0.left.inPresentationMode/0.0.1366.768@0.0.1366.768" timestamp="1584192261024" />
+    <state width="652" height="138" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584196870817" />
+    <state width="652" height="138" key="GridCell.Tab.0.right" timestamp="1584196870819">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="169" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1584192261028">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="169" key="GridCell.Tab.0.right.inPresentationMode/0.0.1366.768@0.0.1366.768" timestamp="1584192261028" />
+    <state width="652" height="138" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584196870819" />
+    <state x="677" y="176" key="com.intellij.ide.util.TipDialog" timestamp="1584943785097">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="677" y="176" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584943785097" />
+    <state x="686" y="89" key="search.everywhere.popup" timestamp="1584191281831">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="686" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1584191281831" />
+  </component>
+</project>
