@@ -6,11 +6,11 @@ import random
 # print(im)
 x = [1, 2, 3, 4, 5]
 y = [5, 10, 15, 20, 25]
-# lum = im[:, :, 3]
+lum = im[:, :, 3]
 # #a=plt.scatter(x,y)
 # plt.plot(x,y)
 # plt.title("CAAAAAAAAAAR")
-# #plt.imshow(lum)
+#plt.imshow(lum)
 # plt.show()
 #
 # plt.title("CAAAAAAAAAAR")
