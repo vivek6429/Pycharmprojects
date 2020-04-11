@@ -1,5 +1,5 @@
 import cv2
-import numpy_image as np
+import numpy_img as np
 
 img = cv2.imread("data/lena.jpg", 1)
 img = cv2.line(img, (0, 0), (255, 255), (255, 0, 0), 5)  # img pt1 pt2 colorbgr thickness1-
