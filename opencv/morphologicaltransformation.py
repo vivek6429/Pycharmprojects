@@ -7,8 +7,8 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-# img = cv2.imread("data/smarties.png", 0)  # cv2.IMREAD_GRAYSCALE
-img = cv2.imread("data/j5v72y.jpg", 0)
+img = cv2.imread("data/smarties.png", 0)  # cv2.IMREAD_GRAYSCALE
+# img = cv2.imread("data/j5v72y.jpg", 0)
 ret, mask = cv2.threshold(img, 220, 255, cv2.THRESH_BINARY_INV)
 
 # a kernel some shape like square , iterations no of time to do
